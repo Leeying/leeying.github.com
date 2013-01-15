@@ -1,6 +1,6 @@
 ---
 layout: post
-category : feelings
+category : life
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
