@@ -6,6 +6,9 @@
 .thread-likes.upvoted a:hover .notch{
   border-right: 4px solid rgba(50, 128, 213, 0.79) !important;
 }
+#discovery{
+  display: none !important;
+}
 /* Override some defaults */
 html,body {
   background-color: #eee;
