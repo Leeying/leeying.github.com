@@ -1,3 +1,11 @@
+.thread-likes.upvoted a,
+.thread-likes.upvoted a:hover{
+  background: #439FED !important;
+}
+.thread-likes.upvoted a .notch,
+.thread-likes.upvoted a:hover .notch{
+  border-right: 4px solid rgba(50, 128, 213, 0.79) !important;
+}
 /* Override some defaults */
 html,body {
   background-color: #eee;
@@ -55,7 +63,7 @@ html,body {
 	padding: 3px 6px;
 	margin: 2px;
 	background: #eee;
-	color:#005F6B;
+	color:#6b105d;
 	border-radius: 3px;
 	text-decoration:none;
 }
